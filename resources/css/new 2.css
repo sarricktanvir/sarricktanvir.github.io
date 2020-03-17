@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  font-family: 'Titillium Web', sans-serif;
+  text-rendering: optimizeLegibility;
+}
+.row {
+  max-width:114rem;
+  margin: 0 auto;
+}

@@ -1,0 +1,41 @@
+@media only screen and (max-width:1024px) {
+  html{
+    font-size: 55.5%;
+  }
+  .row{
+    margin: 0  2.5rem;
+  }
+  .main-nav{
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width:768px) {
+  html{
+    font-size: 50.5%;
+  }
+  .my-image{
+    margin-left: 6rem;
+  }
+  .social-icon {
+  	margin-left: 9.5rem;
+  }
+}
+
+@media only screen and (max-width:414px) {
+  .my-image{
+    margin-left: 8.5rem;
+  }
+  .social-icon {
+  	margin-left: 11rem;
+  }
+}
+
+@media only screen and (max-width:375px) {
+  .my-image{
+    margin-left: 7.5rem;}
+    .social-icon {
+    	margin-left: 10rem;
+    }
+}
